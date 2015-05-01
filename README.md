@@ -13,11 +13,11 @@ $ go version
 ## Using
 //name design
 
-format "<name>.go" saved in folder
+format "<"name">.go" saved in folder
 
 //run
 
-$ go run <name>.go
+$ go run <"name">.go
 
 
 Happy Hacking!
